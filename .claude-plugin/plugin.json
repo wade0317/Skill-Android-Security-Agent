@@ -1,0 +1,9 @@
+{
+  "name": "android-security-agent",
+  "version": "1.0.0",
+  "description": "Android 自动化安全审计（SAST）智能体，编排 grep 快速扫描与 FlowDroid 污点分析工具链，自动检测 APK 中的 SQL 注入、命令注入、路径穿越、硬编码密钥等漏洞",
+  "author": { "name": "Wade" },
+  "keywords": ["android", "security", "sast", "flowdroid", "apk", "audit", "soot"],
+  "skills": "./skills/",
+  "category": "deploy"
+}
